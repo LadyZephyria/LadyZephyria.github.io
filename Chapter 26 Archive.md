@@ -1,7 +1,14 @@
 layout: page
 title: "Chapter 26 Archive"
 permalink: /Trashbin/Chapter 26 Archive
-
+<style>
+  .post-content, .page-content {
+    max-width: 100%;
+  }
+  body {
+    margin: 0 20px;
+  }
+</style>
 
 THIS IS NOT CANNON. THESE EVENTS DID NOT HAPPEN. ONLY FOR THOSE WHO WERE CURIOUS WHAT COULD HAVE BEEN, AS I OFTEN AM WITH STORIES. THANK YOU FOR BEING CURIOUS.
 
